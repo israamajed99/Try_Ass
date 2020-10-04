@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Try_Ass</string>
+    <string name="hi">Hello World!</string>
+    <string name="enter_your_name">enter your name</string>
+    <string name="submit">Submit</string>
+    <string name="enter_password">enter password</string>
+</resources>
